@@ -1,0 +1,4 @@
+{
+    "mongoURI": "mongodb+srv://viper:cXz6omi99atMPrBz@viperlineups.3kz6g.mongodb.net/viper?retryWrites=true&w=majority",
+    "jwtSecret": "notsecretDONTMESSWITHMYFOOD"
+}
